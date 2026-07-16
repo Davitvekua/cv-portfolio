@@ -1,1 +1,7 @@
 @import "tailwindcss";
+
+@import url("https://fonts.googleapis.com/css2?family=Bitcount+Grid+Double:wght@100..900&display=swap");
+
+.bitcount-font {
+  font-family: "Bitcount Grid Double", monospace;
+}
